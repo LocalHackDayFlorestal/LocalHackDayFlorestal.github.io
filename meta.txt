@@ -1,0 +1,5 @@
+- Mudar o favicon
+- Mudar o background
+- Mudar a logo
+- Mudar os textos
+- Adicionar o regulamento como a página sobre
