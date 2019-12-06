@@ -1,15 +1,18 @@
 // Buttons
 %btnextend {
 	display: inline-block;
-	border: 1px solid;
-	border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
-	border-radius: 3px;
+	border: 0.25rem solid;
+	border-color: $btn-black;
+	border-radius: 0.25rem;
 	text-decoration: none;
-	background: $white;
-	color: $color_shark;
+	background: $btn-yellow;
+	color: $btn-black;
+  font-weight: bold !important;
+  box-shadow: -6px 6px 0 $btn-black;
+  transition: box-shadow .15s ease-in-out;
 	&:hover {
-		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
-		color: $red;
+		box-shadow: 0 0 0 $btn-black;
+		color: $btn-black;
 	}
 }
 .social-btn {

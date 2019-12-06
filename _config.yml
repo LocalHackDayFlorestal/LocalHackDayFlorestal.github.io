@@ -1,14 +1,14 @@
 # Site
-title:              Local Hack Day (Edição Florestal) 2019
-bio:                'An event that occurs yearly at Universidade Federal de Viçosa Campus Florestal'
-description:        "Welcome to Local Hack Day (Edição Florestal) 2019, an event that occurs yearly at Universidade Federal de Viçosa Campus Florestal"
+title:              Hackathon Local Hack Day - Build - Florestal 2019
+bio:                'Hackathon do evento Local Hack Day, na Universidade Federal de Viçosa Campus Florestal'
+description:        "A Arthemis Code League dá as boas-vindas à hackathon do Local Hack Day - Build em Florestal!\n\nClique no link a seguir para conferir o regulamento!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/bg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                http://127.0.0.1:4000
 
 # Jekyll
 permalink:          /:title/
@@ -26,16 +26,10 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+# disqus_shortname:   arthemiscodeleague
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
 #bing-verify:
 #email:
 #twitter:            username

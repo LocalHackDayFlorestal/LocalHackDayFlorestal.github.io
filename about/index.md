@@ -1,37 +1,47 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Regulamento
+tags: [sobre, regulamento]
+date: 2019-12-07
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 1. Objetivo
 
-## Preview
+O evento Hackathon Local Hack Day (Edição Florestal) é um concurso técnico promovido pela Arthemis Code League na Universidade Federal de Viçosa - Campus Florestal, e tem como objetivo **criar soluções tecnológicas para auxiliar pessoas nos cuidados com sua saúde alimentar**.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## 2. Cronograma
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+>* 9h - Cerimônia de abertura;
+* 10h - Início da competição;
+* 10h às 16h30 - Atividades do evento e mentorias;
+* 16h30 - Coffee break;
+* 18h30 - Entrega e apresentação dos trabalhos;
+* 20h - Anúncio dos vencedores e premiação.
 
-## Getting Started
+Para mais detalhes, acesse o site:
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Site do MLH](https://localhackday.mlh.io/build/locations/2282){: .btn}
+
+## 3. Critérios de Avaliação
+
+Serão levados em consideração durante a avaliação da banca os seguintes critérios classificatórios:
+
+  1. Impacto da ideia;
+  2. Viabilidade da implementação;
+  3. Protótipo;
+  4. Apresentação.
+
+*Atenção: trabalhos que não corresponderem integralmente ao objetivo proposto serão desclassificados. Caberá à banca avaliadora determinar quais trabalhos se encaixam nesse critério eliminatório.*
+
+## 4. Premiação
+
+Ao todo, três equipes serão selecionadas como vencedoras do Hackathon, sendo classificadas em três posições. Caso haja empates, o critério de desempate será determinado pela própria banca avaliadora.
+
+Cada membro das equipes vencedoras ganhará um certificado correspondente à sua classifcação e brindes do evento.
+
+## 5. Mentoria
+
+Durante o tempo de mentoria estipulado na Programação, haverá mentores disponíveis para discussão sobre o tema e auxílio na utilização de tecnologias.
+
+Aproveitem esse recurso para entender o melhor possível o desafio e esclarecer possíveis dúvidas da equipe.
