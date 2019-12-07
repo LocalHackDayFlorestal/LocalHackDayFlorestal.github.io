@@ -194,6 +194,7 @@ header .entry-meta {
 }
 .feature {
     @include transition(.5s);
+    background-size: cover;
     @media #{$small} {
         background-image: none !important;
     }
